@@ -44,13 +44,12 @@ end of Omarchy's dark themes without reaching the glare of a pure white.
 
 ## Backgrounds
 
-Two ship with the theme:
+`celestial-void.png` ships with the theme: a wide night sky over a mountain
+horizon, matched to the palette.
 
-- `celestial-void.png` — the default, a wide night sky over a mountain horizon
-- `celestial.png` — a plainer procedural gradient with a purple glow
-
-Cycle between them with `omarchy theme bg next`, or drop your own images into
-`~/.config/omarchy/backgrounds/celestial/`.
+To use your own instead, drop images into
+`~/.config/omarchy/backgrounds/celestial/` and cycle with
+`omarchy theme bg next`.
 
 ## Customizing
 
