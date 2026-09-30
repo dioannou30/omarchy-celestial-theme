@@ -44,9 +44,10 @@ end of Omarchy's dark themes without reaching the glare of a pure white.
 
 ## Backgrounds
 
-Two backgrounds ship with the theme, matched to the palette:
+Three backgrounds ship with the theme, matched to the palette:
 
-- `celestial-space-station.png` (default)
+- `celestial-megastructure.png` (default)
+- `celestial-space-station.png`
 - `celestial-void.png`: a wide night sky over a mountain horizon
 
 To use your own instead, drop images into
